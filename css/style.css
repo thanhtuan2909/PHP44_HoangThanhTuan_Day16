@@ -1,0 +1,32 @@
+label {
+    font-weight: bold;
+}
+
+span {
+    color: red;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+.form-insert, .form-view, .form-update {
+    width: 45%;
+    margin: 0 auto;
+}
+
+table {
+    width:100%;
+}
+
+.header {
+    padding: 20px 0;
+}
+
+.button-insert {
+    float: right;
+}
+
+h6 {
+    color: green;
+}
